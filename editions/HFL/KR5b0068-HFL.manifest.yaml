@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5b0068/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5b0068/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上虛皇保生神咒經
+  date: '2015-08-28 23:48:15.799363'
+  source:
+    repository: kanripo
+    path: KR5b0068
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0068_000-HFL.yaml, hash: 'sha256:f34dd03fcbf72c30f6f45fb03f946e744a5dc052bcaf8db05e2317e6aad1c0f4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0068_000-HFL.markers.yaml, hash: 'sha256:80bf6fe98555530774718b301f4ecd7d75262dff05b9ba0fce709d9d5629f4a0'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0068_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 242
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:a7863bf96e3c4689d2fa524e6c110ab1507292fdee74123985023d4e57e366d3

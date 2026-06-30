@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5b0068/HFL/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 太上虚皇保生神呪經太上虚皇開散玉庭金房晃曜翠臺鬱青我設三道滅鬼生靈我能無死亦能無生長生自在迴老返嬰䰟𩲸受鍊五神安寧迴飈車輪北謁玉清升入太無與日合明遂成眞人五帝合并三元所告萬神咸聽洞玄三昧無量眞靈羣仙侍衛名列玉清洞眞玉虚無中之無道中之道神化須㬰洞神靈應法象有爲驅邪滅惡運轉璇璣東方保生青童神靈正一守䰟克保昌齡南方保生固氣赤靈萬神無越使我長寧西方保生侍𩲸白靈辟除妖氣令我利亨北方保生通利元精五氣眞符使臣長榮中央保生主我身形飛行自在天地齊并遊觀太虚上朝玉京下祛妖魅福恵羣生太上虛皇保生神呪經
+  hash: sha256:85b05d181ef8960886da35017c7d89b3ed3be0ec5379b281dbfa7b1a45633385
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5b0068_HFL_000-001a, image: hfl/0182/0182-128.png}
+metadata:
+  title: 太上虛皇保生神咒經
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+  date: '2015-08-28 23:48:15.799363'
+  source:
+    repository: kanripo
+    path: KR5b0068/KR5b0068_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:f34dd03fcbf72c30f6f45fb03f946e744a5dc052bcaf8db05e2317e6aad1c0f4
